@@ -1,0 +1,2 @@
+Para compilar usar:
+cc clnt_adapter.c client.c utils.c -o client
